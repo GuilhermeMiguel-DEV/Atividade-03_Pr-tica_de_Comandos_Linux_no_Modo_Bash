@@ -1,1 +1,0 @@
-# Atividade-03_Pr-tica_de_Comandos_Linux_no_Modo_Bash
