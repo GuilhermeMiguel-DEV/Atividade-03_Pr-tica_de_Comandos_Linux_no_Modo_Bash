@@ -6,8 +6,8 @@ Este repositório contém o relatório e evidências da Atividade 03. O PDF incl
 
 Arquivos generados:
 
+    Atividade_03_GuilhermeMiguelNetoSantaRosa
     Atividade_03_GuilhermeMiguelNetoSantaRosa_withprints.pdf
-    imagens (PNG) na pasta atividade03_outputs
 
 Principais comandos e artefatos gerados:
 
